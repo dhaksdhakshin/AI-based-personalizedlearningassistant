@@ -91,7 +91,7 @@ npm start
 **Fix:** Open DevTools (`F12`) → Check Console for errors → Fix imports in `firebase-config.js`
 
 ### 2️⃣ Firebase Not Defined Error
-**Fix:** Ensure you correctly import Firebase:
+**Fix:** Ensure you correctly import Firebase :
 ```javascript
 import { auth, db, firebaseConfig } from "../firebase/firebase-config";
 ```
