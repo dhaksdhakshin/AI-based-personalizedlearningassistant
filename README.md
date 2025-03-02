@@ -47,7 +47,7 @@ npm install
 
 3️⃣ **Set Up Firebase**
 - Go to [Firebase Console](https://console.firebase.google.com/)
-- Create a new project
+- Create a new project 
 - Get your **Firebase config** and add it to `src/firebase/firebase-config.js`
 
 Example:
