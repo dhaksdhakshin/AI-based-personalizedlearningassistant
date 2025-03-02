@@ -1,6 +1,6 @@
 # AI-Based Learning Assistant
 
-This is an AI-powered learning assistant built using **React**, **Firebase**, and **React Router**. It allows users to register, log in, and manage their learning profiles with personalized goals and preferences.
+This is an AI-powered learning assistant built using **React**, **Firebase**, and **React Router**. It allows users to register, log in, and manage their learning profiles with personalized goals and preferences .
 
 ## 🚀 Features
 - User Authentication (Register & Login)
