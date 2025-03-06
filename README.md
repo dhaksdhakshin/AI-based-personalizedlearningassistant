@@ -113,5 +113,5 @@ npm start
 ---
 
 ## 📞 Support
-For issues, open a GitHub issue or contact [Your Name].
+For issues, open a GitHub issue or contact [Your Name] .
 
