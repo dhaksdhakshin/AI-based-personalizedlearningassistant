@@ -106,7 +106,7 @@ npm start
 ---
 
 ## 📌 Future Enhancements
-✅ AI-Powered Course Recommendations
+✅ AI-Powered Course Recommendations 
 ✅ Learning Progress Tracking
 ✅ Notifications for Study Reminders
 
