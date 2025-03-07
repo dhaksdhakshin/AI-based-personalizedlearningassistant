@@ -19,7 +19,7 @@ This is an AI-powered learning assistant built using **React**, **Firebase**, an
 📦 assistant 
  ┣ 📂 src
  ┃ ┣ 📂 components
- ┃ ┃ ┣ 📜 Login.js
+ ┃ ┃ ┣ 📜 Login.js 
  ┃ ┃ ┣ 📜 Register.js 
  ┃ ┃ ┣ 📜 Profile.js 
  ┃ ┣ 📂 firebase 
