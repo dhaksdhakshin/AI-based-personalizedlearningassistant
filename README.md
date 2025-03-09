@@ -11,7 +11,7 @@ This is an AI-powered learning assistant built using **React**, **Firebase**, an
 
 ## 🛠 Tech Stack 
 - **Frontend**: React, React Router
-- **Backend**: Firebase Authentication, Firebase Firestore  
+- **Backend**: Firebase Authentication, Firebase Firestore   
    
 ---  
   
