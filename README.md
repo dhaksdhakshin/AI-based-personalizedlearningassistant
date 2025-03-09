@@ -14,7 +14,7 @@ This is an AI-powered learning assistant built using **React**, **Firebase**, an
 - **Backend**: Firebase Authentication, Firebase Firestore    
    
 ---  
-  
+   
 ## 📂 Folder Structure 
 ``` 
 📦 assistant 
