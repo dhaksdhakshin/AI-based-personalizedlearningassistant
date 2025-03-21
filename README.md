@@ -5,7 +5,7 @@ This is an AI-powered learning assistant built using **React**, **Firebase**, an
 ## 🚀 Features
 - User Authentication (Register & Login)
 - Profile Management
-- Firebase Firestore Database Integration
+- Firebase Firestore Database Integration 
 - React Router for Navigation   
       
 
