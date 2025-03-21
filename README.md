@@ -16,7 +16,7 @@ This is an AI-powered learning assistant built using **React**, **Firebase**, an
 ---  
     
 ## 📂 Folder Structure  
-``` 
+```  
 📦 assistant 
  ┣ 📂 src
  ┃ ┣ 📂 components
