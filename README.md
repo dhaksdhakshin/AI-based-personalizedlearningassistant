@@ -8,7 +8,7 @@ This is an AI-powered learning assistant built using **React**, **Firebase**, an
 - Firebase Firestore Database Integration 
 - React Router for Navigation   
       
-
+ 
 ## 🛠 Tech Stack    
 - **Frontend**: React, React Router  
 - **Backend**: Firebase Authentication, Firebase Firestore      
