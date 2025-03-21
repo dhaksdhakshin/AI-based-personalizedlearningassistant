@@ -52,7 +52,7 @@ npm install
 - Get your **Firebase config** and add it to `src/firebase/firebase-config.js`
 
 Example:
-```javascript
+```javascript 
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
